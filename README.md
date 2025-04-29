@@ -4,7 +4,7 @@
 
 ---
 
-## Team: Kamya Rajesh, Saloni Agshiker, Sriya Thota, Nimrath Khanuja
+## Team: Aumrita Maitra, Kamya Rajesh, Sriya Thota, Nimrath Khanuja
 
 ## 🧠 Overview
 
