@@ -4,6 +4,8 @@
 
 ---
 
+## Team: Kamya Rajesh, Saloni Agshiker, Sriya Thota, Nimrath Khanuja
+
 ## 🧠 Overview
 
 As mental health issues rise globally by **25%**, social media has become a primary outlet for emotional expression—yet **only 30%** of teens seek professional help, despite **80%** expressing their struggles online.
